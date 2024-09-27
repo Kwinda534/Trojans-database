@@ -1,0 +1,7 @@
+[autorun]
+open=setup.exe
+icon=autorun.ico
+
+[autorun.amd64]
+open=setup64.exe
+icon=autorun.ico
